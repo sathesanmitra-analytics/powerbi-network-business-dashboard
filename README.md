@@ -23,19 +23,19 @@ The dashboard helps identify promotion-ready leaders, analyze organizational bal
 
 ## Business Overview Dashboard
 
-![Business Overview](Business_Overview_Dashboard.png)
+![Business Overview](Business_Overview_Dashboard.PNG)
 
 ---
 
 ## Leadership Growth Dashboard
 
-![Leadership Growth](Leadership_Growth_Dashboard.png)
+![Leadership Growth](Leadership_Growth_Dashboard.PNG)
 
 ---
 
 ## Data Model
 
-![Data Model](Data_Model.png)
+![Data Model](Data_Model.PNG)
 
 ---
 
